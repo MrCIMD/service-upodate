@@ -6,7 +6,7 @@ Dependences
     #
   ```
 
-saxon install
+Install
 
   ```sh
     #
